@@ -16,7 +16,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/iut-encrypt.git"
+    "url": "https://github.com/A-Lajoinie/Node_project.git"
   },
   "engines": {
     "node": ">=10.0.0"
