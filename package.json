@@ -1,5 +1,5 @@
 {
-  "name": "@dan/iut-encrypt",
+  "name": "@alekhor/iut-encrypt",
   "version": "1.0.0",
   "description": "Module de cryptage de mots de passe - SHA1 encryption",
   "main": "lib/index.js",
